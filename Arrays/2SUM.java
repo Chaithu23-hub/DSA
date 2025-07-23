@@ -19,7 +19,7 @@ class Solution {
 Solved
 Easy
 Topics
-premium lock icons
+premium lock icon
 Companies
 Hint
 Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
